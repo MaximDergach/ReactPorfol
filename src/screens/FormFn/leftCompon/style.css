@@ -1,0 +1,16 @@
+
+.styelForm{
+	width: '500px';
+	height: '100px';
+	fontSize: '34px';
+}
+.btnForm{
+	width: '500px';
+	height: '100px';
+	fontSize: '34px';
+	margin-bottom: 20px;
+}
+
+p{
+	margin: 0;
+}
